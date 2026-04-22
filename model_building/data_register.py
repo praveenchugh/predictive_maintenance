@@ -23,7 +23,7 @@ from huggingface_hub.utils import RepositoryNotFoundError
 # ============================================================
 REPO_ID = "praveenchugh/capstone-predictive-maintenance-dataset"
 REPO_TYPE = "dataset"
-DATA_PATH = "capstone_predictive_maintenance/data"
+DATA_PATH = "data"
 
 
 # ============================================================
